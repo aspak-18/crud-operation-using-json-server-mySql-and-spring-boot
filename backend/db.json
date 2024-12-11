@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "5038",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "phone": "321123321"
+    },
+    {
+      "id": "5f89",
+      "name": "Ashfaque",
+      "email": "ash@gmail.com",
+      "password": "1234",
+      "phone": "12121212"
+    },
+    {
+      "id": "c995",
+      "name": "Ashfaque",
+      "email": "ash@gmail.com",
+      "password": "1234",
+      "phone": "12121212"
+    },
+    {
+      "id": "840c",
+      "name": "Ashfaque",
+      "email": "ash@gmail.com",
+      "password": "1234",
+      "phone": "12121212"
+    },
+    {
+      "id": "f56f",
+      "name": "Ashfaqueeee",
+      "email": "ashhhhh@gmail.com",
+      "password": "1234",
+      "phone": "12121212"
+    },
+    {
+      "id": "beb5"
+    },
+    {
+      "id": "b62c",
+      "name": "Albab",
+      "email": "alb@gmail.com",
+      "password": "3214",
+      "phone": "5465465"
+    },
+    {
+      "id": "0810",
+      "name": "Naveen",
+      "email": "nau@gmail.com",
+      "password": "1414",
+      "phone": "41414141"
+    },
+    {
+      "id": "0df1",
+      "name": "naushadbhai",
+      "email": "naubhai@gmail.com",
+      "password": "11111",
+      "phone": "41414141"
+    }
+  ]
+}
